@@ -7,7 +7,7 @@ consumer perception of Nvidia RTX 40 series graphical processing units.
 
 ## 👨‍💻 Developer
 
-Bislan Pisaev
+Bislan Pisaev, Akmaljon Negmatulloev
 
 ---
 
